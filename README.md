@@ -1,6 +1,9 @@
 # BuildYourOwnLisp
 
-[原教程](https://github.com/orangeduck/BuildYourOwnLisp)
+# 教程
+* [原教程](https://github.com/orangeduck/BuildYourOwnLisp)
+* [中文Gitbook](https://ksco.gitbooks.io/build-your-own-lisp/content/Evaluation.html)
+* [英文](https://github.com/orangeduck/BuildYourOwnLisp)
 
 ## 环境
 * Windows 10 X64
