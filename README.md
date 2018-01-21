@@ -1,4 +1,7 @@
 # BuildYourOwnLisp
+
+[原教程](https://github.com/orangeduck/BuildYourOwnLisp)
+
 ## 环境
 * Windows 10 X64
 * Cygwin
