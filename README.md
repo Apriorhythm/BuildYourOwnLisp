@@ -6,5 +6,5 @@
 * C语言：C99
 
 ## 差别
-|原教程语言是   | Lispy
-|本代码是       | ALispy
+原教程语言是    : Lispy
+本代码是        : ALispy
